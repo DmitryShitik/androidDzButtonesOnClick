@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">androidDzButtonesOnClick</string>
+    <string name="buttonName1">1 button</string>
+    <string name="buttonName2">2 button</string>
+    <string name="buttonName3">3 button</string>
+    <string name="buttonName4">4 button</string>
+    <string name="showTextAfterClickButton1">Hello button 1</string>
+    <string name="showTextAfterClickButton2">Hello button 2</string>
+    <string name="showTextAfterClickButton3">Hello button 3</string>
+    <string name="showTextAfterClickButton4">Hello button 4</string>
+
+</resources>

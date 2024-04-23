@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">androidDzButtonesOnClick</string>
+    <string name="buttonName1">1 кнопка</string>
+    <string name="buttonName2">2 кнопка</string>
+    <string name="buttonName3">3 кнопка</string>
+    <string name="buttonName4">4 кнопка</string>
+    <string name="showTextAfterClickButton1">Привет кнопка 1</string>
+    <string name="showTextAfterClickButton2">Привет кнопка 2</string>
+    <string name="showTextAfterClickButton3">Привет кнопка 3</string>
+    <string name="showTextAfterClickButton4">Привет кнопка 4</string>
+</resources>
